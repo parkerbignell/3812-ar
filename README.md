@@ -12,3 +12,4 @@
     <a-scene mindar-image="imageTargetSrc: "C:\Users\parkb\Downloads\Canada Revisited Hardcover.html";" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
     <script src="video-handler.js"></script>
   </head>
+<a-scene mindar-image="imageTargetSrc: targets.mind;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
